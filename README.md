@@ -1,25 +1,11 @@
-# Hi 👋, I'm Mithilraj Puthran
+# Hi, I'm Mithilraj Puthran
 
-### 🎓 B.Tech Computer Science & Engineering student and aspiring AI/ML Engineer.
+**B.Tech Computer Science & Engineering student and aspiring AI/ML Engineer.**
 
-<p align="left"> 
-  <img src="[Your Profile Views Badge URL]" alt="Profile Views" /> 
-</p>
+Welcome to my GitHub! I am deeply interested in artificial intelligence and machine learning, and I am consistently working to expand my knowledge and practical experience in these domains.
 
-<img align="right" src="[Your Anime Image URL]" width="300" />
+### Current Focus
+*   **Collaborating:** I am actively looking to contribute to open-source AI/ML projects.
+*   **Exploring:** Passionately studying and building within the AI/ML space to stay at the cutting edge of the technology.
 
-- 👯 I’m looking to collaborate on **Open Source AI/ML projects**
-- 🤖 Passionately exploring **AI and ML** to stay at the cutting edge
-
-### Languages and Tools:
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-</div>
-
-###
-
-<h3 align="left">Stats and Activity:</h3>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mithilraj07-aiml&theme=radical" alt="streak stats" />
-</div>
-<br clear="both">
+Feel free to explore my repositories or reach out if you would like to connect and collaborate!
